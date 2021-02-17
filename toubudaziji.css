@@ -22,3 +22,8 @@
     background-color: rgba(0, 0, 0, 0);
 }
 
+#blog_title {
+    background: linear-gradient(to right, #83deb4, #addba1, #cfd699, #e9d19f, #f9cdad);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
