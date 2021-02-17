@@ -15,8 +15,3 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
-#subtitle:before {
-    background-color: rgba(0, 0, 0, 0);
-}
-
