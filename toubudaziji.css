@@ -3,7 +3,7 @@
 
 #subtitle {
     background: linear-gradient(to right, #83deb4, #addba1, #cfd699, #e9d19f, #f9cdad);
-    background-size: 400% 400%;
+    background-size: auto;
     -webkit-animation: Gradient 10s ease infinite;
     -moz-animation: Gradient 10s ease infinite;
     animation: Gradient 10s ease infinite;
@@ -14,8 +14,6 @@
     user-select: none;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
 }
 
 #subtitle:before {
